@@ -154,7 +154,7 @@ Agencies are responsible for establishing a decision-making process that provide
   
   k) Information technology investments must facilitate interoperability, application portability, and scalability across networks of heterogeneous hardware, software, and telecommunications platforms;
   
-  l) Information systems and processes must support interoperability and access to information, maximize the usefulness of information, minimize the burden on the public, and preserve the appropriate integrity, usability, availability, confidentiality, and disposition of information throughout the life cycle of the information.<sup id="fnr8"><a href="#fn8">8</a></sup> 
+  l) Information systems and processes must support interoperability and access to information, maximize the usefulness of information -- by storing data in open machine-readable formats where appropriate -- minimize the burden on the public, and preserve the appropriate integrity, usability, availability, confidentiality, and disposition of information throughout the life cycle of the information.<sup id="fnr8"><a href="#fn8">8</a></sup> 
 
   m) Information systems and processes must facilitate accessibility under the Rehabilitation Act of 1973, as amended; in particular, see specific electronic and information technology accessibility requirements commonly known as "section 508" requirements (29 U.S.C. § 794d);
   
